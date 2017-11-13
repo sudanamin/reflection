@@ -10,3 +10,7 @@ staging area let git to watch the files added to it , it give me chanse to deter
 How can you use the staging area to make sure you have one commit per logical change?
 
 i will see the status of my staging area and make sure there is only on file ready to commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches let me create new path to add complete new feature without change the master branches
