@@ -28,4 +28,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    when you want to show your changes to other people and get comments on your works
+this way you collabrate with others but in the other hand sometimes you need to fix conflict and 
+make addition pull,merge and push.
